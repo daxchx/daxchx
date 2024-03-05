@@ -16,9 +16,9 @@ Recursionでは、以下の事を行いました。
 
 ### 私が作成したプロジェクトを紹介✨
 
-![書籍の検索アプリケーション](https://github.com/daxchx/book-search/assets/149696768/d7e1de76-5eb9-4e31-9ee8-29b8b848df27)
+#### （1）コンピュータービルダー
 
-#### コンピュータービルダー
+![書籍の検索アプリケーション](https://github.com/daxchx/book-search/assets/149696768/d7e1de76-5eb9-4e31-9ee8-29b8b848df27)
 
 4つのパーツ(CPU / GPU / メモリ / ストレージ)の種類を選択し、「仮想のコンピュータ」を組み立て、その性能を評価し比較するアプリケーションです。
 
@@ -26,9 +26,35 @@ Recursionでは、以下の事を行いました。
 
 <a href="https://">アプリケーションを確認する</a>
 
-#### ブラックジャック
-#### 書籍の検索アプリケーション
-#### トランプゲームアプリケーション
+#### （2）ブラックジャック
+
+![書籍の検索アプリケーション](https://github.com/daxchx/book-search/assets/149696768/d7e1de76-5eb9-4e31-9ee8-29b8b848df27)
+
+4つのパーツ(CPU / GPU / メモリ / ストレージ)の種類を選択し、「仮想のコンピュータ」を組み立て、その性能を評価し比較するアプリケーションです。
+
+**使用技術**：API / OOP / MVC / TypeScript / Vite / Vercel
+
+<a href="https://">アプリケーションを確認する</a>
+
+#### （3）書籍の検索アプリケーション
+
+![書籍の検索アプリケーション](https://github.com/daxchx/book-search/assets/149696768/d7e1de76-5eb9-4e31-9ee8-29b8b848df27)
+
+4つのパーツ(CPU / GPU / メモリ / ストレージ)の種類を選択し、「仮想のコンピュータ」を組み立て、その性能を評価し比較するアプリケーションです。
+
+**使用技術**：API / OOP / MVC / TypeScript / Vite / Vercel
+
+<a href="https://">アプリケーションを確認する</a>
+
+#### （4）トランプゲームアプリケーション
+
+![書籍の検索アプリケーション](https://github.com/daxchx/book-search/assets/149696768/d7e1de76-5eb9-4e31-9ee8-29b8b848df27)
+
+4つのパーツ(CPU / GPU / メモリ / ストレージ)の種類を選択し、「仮想のコンピュータ」を組み立て、その性能を評価し比較するアプリケーションです。
+
+**使用技術**：API / OOP / MVC / TypeScript / Vite / Vercel
+
+<a href="https://">アプリケーションを確認する</a>
 
 
 
