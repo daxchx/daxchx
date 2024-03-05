@@ -18,11 +18,12 @@ Recursionでは、以下の学習やアウトプットを行ってきました�
 ## 作成したプロジェクトを紹介✨
 
 ### （1）コンピュータービルダー
-![Videotogif (2)](https://github.com/daxchx/computer-builder/assets/149696768/85f99bde-d963-493a-9b30-19fed7c6f433)
+
+![Videotogif (3)](https://github.com/daxchx/computer-builder/assets/149696768/5a2ec6ad-3170-4d03-8ea4-c3dec8c444dd)
 
 4つのパーツ(CPU / GPU / メモリ / ストレージ)の種類を選択し、「仮想のコンピュータ」を組み立て、その性能を評価し比較するアプリケーションです。
 
-**使用技術**：API / OOP / MVC / TypeScript / Vite / Vercel
+**使用技術**： API / OOP / MVC / TypeScript / Vite / Vercel
 
 <a href="https://computer-builder-beta.vercel.app/">アプリケーションを確認する</a>
 
