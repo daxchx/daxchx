@@ -25,7 +25,9 @@ Recursionでは、以下の学習やアウトプットを行ってきました�
 
 **使用技術**：API / OOP / MVC / TypeScript / Vite / Vercel
 
-<a href="https://">アプリケーションを確認する</a>
+<a href="https://computer-builder-beta.vercel.app/">アプリケーションを確認する</a>
+
+<a href="https://github.com/daxchx/computer-builder/">リポジトリを確認する</a>
 
 #### （2）ブラックジャック
 
