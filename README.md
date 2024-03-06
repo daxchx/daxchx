@@ -1,7 +1,7 @@
 ## はじめまして、mishです👋 
 
-私は現在、インハウスのコーダーとして約2年半働いていています。
-業務では HTML / CSS / JavaScript / Sass / PHP / WordPressを使用してwebサイトの運用・保守を行っています。
+私は現在、インハウスのコーダーとして約2年半働いています。
+業務では HTML / CSS / JavaScript / Sass / PHP / WordPressを使用して、webサイトの運用・保守を行っています。
 
 プライベートでは、Recursionというサービスで以下の学習や開発を行ってきました。
 
