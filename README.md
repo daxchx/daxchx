@@ -29,6 +29,7 @@
 <a href="https://github.com/daxchx/computer-builder">リポジトリを確認する</a>
 
 ### （2）ブラックジャック
+![Videotogif (2)](https://github.com/daxchx/blackjack/assets/149696768/fe8e6928-f9f1-4968-a9f5-63fd07a5fa5f)
 
 4つのパーツ(CPU / GPU / メモリ / ストレージ)の種類を選択し、「仮想のコンピュータ」を組み立て、その性能を評価し比較するアプリケーションです。
 
