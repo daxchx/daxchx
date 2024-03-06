@@ -53,6 +53,8 @@
 
 ### （4）トランプゲームアプリケーション
 
+![Videotogif (6) (1)](https://github.com/Frontend-teamDevC/playing-card/assets/149696768/c1b2d6cc-36df-442b-8169-4332120ce459)
+
 4つのパーツ(CPU / GPU / メモリ / ストレージ)の種類を選択し、「仮想のコンピュータ」を組み立て、その性能を評価し比較するアプリケーションです。
 
 **使用技術**：API / OOP / MVC / TypeScript / Vite / Vercel
