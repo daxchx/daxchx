@@ -4,14 +4,13 @@
 業務では HTML / CSS / JavaScript / Sass / PHP / WordPressを使用して、webサイトの運用・保守を行っています。
 
 プライベートでは、以下の学習や開発を行ってきました。
-
-学習
-- データと関数、抽象化、再帰、スコープ、制御フロー、オブジェクト、リスト、連結リスト、スタック、キュー、ツリー構造、ラムダ関数、ソフトウェアテストについて
-- OOP（オブジェクト指向プログラミング）
+- アルゴリズムとデータ構造
+- OOP
 - デザインパターン
-- React
-- DOM操作、APIなどの学習
-- アプリケーションプログラムを作成し、観光構築しながらコンッピュータシステムとどのように相互作用するか学習
+- ソフトウェアエンジニアリング
+- コンピュータアーキテクチャ
+- HTML, CSS, JavaScript, TypeScript, React, MySQL
+- DOM操作、APIなどのを使用したプロジェクトの作成
 - HTTP、仮想マシン、ウェブサーバについて詳しく学習し、自身のサーバにデプロイする
 - フロントエンドチーム開発
 
@@ -23,19 +22,19 @@
 
 このアプリケーションは、Google Books APIのボリュームコレクションを使用した書籍の検索や書籍リソースの確認ができるアプリケーションです。
 
-**使用技術**：API / OOP / MVC / TypeScript / Vite / Vercel
+**使用技術**：React / Next.js / TypeScript / Tailwind CSS / Vercel
 
 <a href="https://book-app-roan.vercel.app">アプリケーションを確認する</a>
 
 <a href="https://github.com/daxchx/book-search">リポジトリを確認する</a>
 
-### （2）トランプゲームアプリケーション
+### （2）トランプゲームアプリケーション（チーム開発）
 
 ![Videotogif (6) (1)](https://github.com/Frontend-teamDevC/playing-card/assets/149696768/c1b2d6cc-36df-442b-8169-4332120ce459)
 
 全4種類のトランプゲームが遊べるウェブアプリケーション
 
-**使用技術**：API / OOP / MVC / TypeScript / Vite / Vercel
+**使用技術**：OOP / MVC / TypeScript / Vite / Vercel
 
 <a href="https://playing-card-mu.vercel.app">アプリケーションを確認する</a>
 
@@ -47,7 +46,7 @@
 
 4つのパーツ(CPU / GPU / メモリ / ストレージ)の種類を選択し、「仮想のコンピュータ」を組み立て、その性能を評価し比較するアプリケーションです。
 
-個人開発 / フロントエンド / API / OOP / MVC / TypeScript / Vite / Vercel
+**使用技術**：API / OOP / MVC / TypeScript / Vite / Vercel
 
 <a href="https://computer-builder-beta.vercel.app">アプリケーションを確認する</a>
 
@@ -58,7 +57,7 @@
 
 このアプリケーションは、トランプゲームのブラックジャックが遊べるアプリケーションです。
 
-**使用技術**：API / OOP / MVC / TypeScript / Vite / Vercel
+**使用技術**：OOP / MVC / TypeScript / Vite / Vercel
 
 <a href="https://blackjack-neon-nine.vercel.app">アプリケーションを確認する</a>
 
