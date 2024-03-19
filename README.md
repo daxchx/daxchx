@@ -13,3 +13,10 @@
 - DOM操作、APIなどのを使用したプロジェクトの作成
 - HTTP、仮想マシン、ウェブサーバについて詳しく学習し、自身のサーバにデプロイする
 - フロントエンドチーム開発
+
+## Stack
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&color=informational)
+![](https://img.shields.io/badge/Code-EcmaScript-informational?style=flat&color=informational)
+![](https://img.shields.io/badge/Code-Node-informational?style=flat&color=informational&logo=node.js)
