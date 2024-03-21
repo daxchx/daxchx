@@ -14,13 +14,18 @@
 - HTTP、仮想マシン、ウェブサーバについて詳しく学習し、自身のサーバにデプロイする
 - フロントエンドチーム開発
 
-## Stack
+## stack
+
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&color=informational&logo=typescript)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
 ![](https://img.shields.io/badge/Code-Next.js-informational?style=flat&color=informational&logo=next.js)
 
+## 作成したプロジェクトを紹介✨
 
+### （1）書籍検索アプリケーション
+
+![](https://github.com/daxchx/book-search/assets/149696768/c3e28846-8826-4835-b7aa-14eba6e08ef5)
 
 このアプリケーションは、Google Books APIのボリュームコレクションを使用した書籍の検索や書籍リソースの確認ができるアプリケーションです。
 
@@ -32,15 +37,19 @@
 
 ### （2）トランプゲームアプリケーション（チーム開発）
 
-
+![](https://github.com/daxchx/blackjack/assets/149696768/30ff87b3-b849-448f-bd57-5e9670ca0570)
 
 全4種類のトランプゲームが遊べるウェブアプリケーション
 
-**使用技術**：OOP / MVC / TypeScript / Vite / Vercel
+**使用技術**：OOP / MVC / TypeScript / Vite / Vercel / Phaser
 
 <a href="https://playing-card-mu.vercel.app">アプリケーションを確認する</a>
 
+<a href="https://github.com/daxchx/blackjack">リポジトリを確認する</a>
 
+### （3）コンピュータービルダー
+
+![](https://github.com/daxchx/computer-builder/assets/149696768/dcd47b72-91e0-42a2-9e7e-e263a89706d9)
 
 4つのパーツ(CPU / GPU / メモリ / ストレージ)の種類を選択し、「仮想のコンピュータ」を組み立て、その性能を評価し比較するアプリケーションです。
 
@@ -48,10 +57,16 @@
 
 <a href="https://computer-builder-beta.vercel.app">アプリケーションを確認する</a>
 
+<a href="https://github.com/daxchx/computer-builder">リポジトリを確認する</a>
 
+### （4）ブラックジャック
+
+![](https://github.com/daxchx/blackjack/assets/149696768/fc0d6bfa-de6b-42ec-93ba-76adb531b69a)
 
 このアプリケーションは、トランプゲームのブラックジャックが遊べるアプリケーションです。
 
 **使用技術**：OOP / MVC / TypeScript / Vite / Vercel
 
 <a href="https://blackjack-neon-nine.vercel.app">アプリケーションを確認する</a>
+
+<a href="https://github.com/daxchx/blackjack">リポジトリを確認する</a>
