@@ -47,7 +47,18 @@
 
 <a href="https://github.com/daxchx/blackjack">リポジトリを確認する</a>
 
-### （3）コンピュータービルダー
+### （3）Slackクローンアプリケーション
+
+![](https://github.com/daxchx/slack-clone/assets/149696768/e2fb42d2-ab9c-40c1-8a09-c4c9c75cfa58)
+
+チャットアプリSlackのクローンアプリケーションです。
+
+**使用技術**：React / TypeScript / Tailwind CSS / Create React App / Redux Toolkit / Firebase FireStore / Firebase Authentication
+
+<a href="https://github.com/daxchx/slack-clone">リポジトリを確認する</a>
+
+
+### （4）コンピュータービルダー
 
 ![](https://github.com/daxchx/computer-builder/assets/149696768/dcd47b72-91e0-42a2-9e7e-e263a89706d9)
 
@@ -59,7 +70,7 @@
 
 <a href="https://github.com/daxchx/computer-builder">リポジトリを確認する</a>
 
-### （4）ブラックジャック
+### （5）ブラックジャック
 
 ![](https://github.com/daxchx/blackjack/assets/149696768/fc0d6bfa-de6b-42ec-93ba-76adb531b69a)
 
