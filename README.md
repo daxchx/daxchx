@@ -9,7 +9,7 @@
 - デザインパターン
 - ソフトウェアエンジニアリング
 - コンピュータアーキテクチャ
-- HTML, CSS, JavaScript, TypeScript, React, MySQL
+- HTML, CSS, JavaScript, TypeScript, React
 - DOM操作、APIなどのを使用したプロジェクトの作成
 - HTTP、仮想マシン、ウェブサーバについて詳しく学習し、自身のサーバにデプロイする
 - フロントエンドチーム開発
