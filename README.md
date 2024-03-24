@@ -20,6 +20,7 @@
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&color=informational&logo=typescript)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
 ![](https://img.shields.io/badge/Code-Next.js-informational?style=flat&color=informational&logo=next.js)
+![](https://img.shields.io/badge/Tools-Jest-informational?style=flat&color=informational&logo=jest)
 
 ## 作成したプロジェクトを紹介✨
 
