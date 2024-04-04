@@ -19,4 +19,3 @@
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&color=informational&logo=typescript)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
-![](https://img.shields.io/badge/Code-Next.js-informational?style=flat&color=informational&logo=next.js)
