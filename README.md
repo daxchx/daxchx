@@ -1,4 +1,4 @@
-## Hello👋
+## Hello
 
 私は現在、インハウスのコーダーとして約2年半働いています。
 業務では HTML / CSS / JavaScript / Sass / PHP / WordPressを使用して、webサイトの運用・保守を行っています。
